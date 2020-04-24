@@ -1,0 +1,14 @@
+C:\Users\mikl1\source\repos\RunningButton\RunningButton\bin\Debug\RunningButton.exe.config
+C:\Users\mikl1\source\repos\RunningButton\RunningButton\bin\Debug\RunningButton.exe
+C:\Users\mikl1\source\repos\RunningButton\RunningButton\bin\Debug\RunningButton.pdb
+C:\Users\mikl1\source\repos\RunningButton\RunningButton\obj\Debug\RunningButton.csprojAssemblyReference.cache
+C:\Users\mikl1\source\repos\RunningButton\RunningButton\obj\Debug\RunningButton.Form.resources
+C:\Users\mikl1\source\repos\RunningButton\RunningButton\obj\Debug\RunningButton.Properties.Resources.resources
+C:\Users\mikl1\source\repos\RunningButton\RunningButton\obj\Debug\RunningButton.csproj.GenerateResource.cache
+C:\Users\mikl1\source\repos\RunningButton\RunningButton\obj\Debug\RunningButton.exe
+C:\Users\mikl1\source\repos\RunningButton\RunningButton\obj\Debug\RunningButton.pdb
+C:\Users\Андрей\Desktop\ColorPicker-master\ColorPicker-master\RunningButton\obj\Debug\RunningButton.csprojAssemblyReference.cache
+C:\Users\Андрей\Desktop\ColorPicker-master\ColorPicker-master\RunningButton\obj\Debug\RunningButton.Form.resources
+C:\Users\Андрей\Desktop\ColorPicker-master\ColorPicker-master\RunningButton\obj\Debug\RunningButton.csproj.GenerateResource.cache
+C:\Users\Андрей\Desktop\ColorPicker-master\ColorPicker-master\RunningButton\obj\Debug\RunningButton.exe
+C:\Users\Андрей\Desktop\ColorPicker-master\ColorPicker-master\RunningButton\obj\Debug\RunningButton.pdb

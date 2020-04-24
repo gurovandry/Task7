@@ -1,0 +1,9 @@
+C:\Users\mikl1\source\repos\ColorPicker\ColorPicker\bin\Debug\ColorPicker.exe.config
+C:\Users\mikl1\source\repos\ColorPicker\ColorPicker\bin\Debug\ColorPicker.exe
+C:\Users\mikl1\source\repos\ColorPicker\ColorPicker\bin\Debug\ColorPicker.pdb
+C:\Users\mikl1\source\repos\ColorPicker\ColorPicker\obj\Debug\ColorPicker.csprojAssemblyReference.cache
+C:\Users\mikl1\source\repos\ColorPicker\ColorPicker\obj\Debug\ColorPicker.Form.resources
+C:\Users\mikl1\source\repos\ColorPicker\ColorPicker\obj\Debug\ColorPicker.Properties.Resources.resources
+C:\Users\mikl1\source\repos\ColorPicker\ColorPicker\obj\Debug\ColorPicker.csproj.GenerateResource.cache
+C:\Users\mikl1\source\repos\ColorPicker\ColorPicker\obj\Debug\ColorPicker.exe
+C:\Users\mikl1\source\repos\ColorPicker\ColorPicker\obj\Debug\ColorPicker.pdb
